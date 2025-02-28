@@ -1,0 +1,24 @@
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.cpp", line: 47:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation
+An OpenGL error occured at file: "C:/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/src/Framework/Assets/ShaderProgram.h", line: 26:
+invalid operation

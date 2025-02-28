@@ -1,0 +1,24 @@
+C:\Users\ryanz\AppData\Local\JetBrains\CLion2023.2\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/cygwin/x64/ninja.exe" -G Ninja -S "/cygdrive/c/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum" -B "/cygdrive/c/Users/ryanz/OneDrive/Desktop/infor hda/Semester 4/Visual Computing/VC_OpenGL_Praktikum_Framework (1)/OpenGL_Praktikum/cmake-build-debug"
+-- GLM is a header only library, no need to build it. Set the option GLM_TEST_ENABLE with ON to build and run the test bench
+GLM: GCC - GNU compiler
+CMake Deprecation Warning at libs/glfw-3.2.1/CMakeLists.txt:10 (cmake_policy):
+  The OLD behavior for policy CMP0042 will be removed from a future version
+  of CMake.
+
+  The cmake-policies(7) manual explains that the OLD behaviors of all
+  policies are deprecated and that a policy should be set to OLD only under
+  specific short-term circumstances.  Projects should be ported to the NEW
+  behavior and not rely on setting a policy to OLD.
+
+
+-- Could NOT find Vulkan (missing: VULKAN_LIBRARY VULKAN_INCLUDE_DIR) 
+-- Using X11 for window creation
+CMake Error at /cygdrive/c/Users/ryanz/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/share/cmake-3.26.4/Modules/FindPackageHandleStandardArgs.cmake:230 (message):
+  Could NOT find X11 (missing: X11_X11_INCLUDE_PATH X11_X11_LIB)
+Call Stack (most recent call first):
+  /cygdrive/c/Users/ryanz/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/share/cmake-3.26.4/Modules/FindPackageHandleStandardArgs.cmake:600 (_FPHSA_FAILURE_MESSAGE)
+  /cygdrive/c/Users/ryanz/AppData/Local/JetBrains/CLion2023.2/cygwin_cmake/share/cmake-3.26.4/Modules/FindX11.cmake:481 (find_package_handle_standard_args)
+  libs/glfw-3.2.1/CMakeLists.txt:212 (find_package)
+
+
+-- Configuring incomplete, errors occurred!
